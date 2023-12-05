@@ -1,0 +1,15 @@
+[package]
+name = "nislib"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+log = "0.4.20"
+palserializer = "0.3.0"
+rand = "0.8.5"
+rsa = "0.9.2"
+spki = "0.7.2"
+strum = "0.25.0"
+strum_macros = "0.25.3"
